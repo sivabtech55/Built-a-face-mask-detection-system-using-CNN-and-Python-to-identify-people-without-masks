@@ -1,0 +1,17 @@
+face-mask-detector/
+├── data/                      # Folder for image dataset (not uploaded)
+│   ├── with_mask/
+│   └── without_mask/
+├── models/
+│   └── t5.model               # Trained model file (optional to upload)
+├── haarcascade/
+│   └── haarcascade_frontalface_default.xml
+├── src/
+│   ├── train.py               # Training script
+│   ├── detect_image.py        # Image detection
+│   ├── detect_video.py        # Live video detection
+│   ├── detect_email.py        # Email alert detection
+├── .gitignore
+├── requirements.txt
+├── README.md
+├── .env                       # Store email credentials (do NOT commit)
