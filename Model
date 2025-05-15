@@ -1,0 +1,7 @@
+Model architecture:
+
+CNN (multiple Conv2D + MaxPooling2D layers)
+
+Fully connected dense layers
+
+Sigmoid output for binary classification
