@@ -1,0 +1,7 @@
+Use a dataset with two folders:
+
+with_mask/: People wearing masks
+
+without_mask/: People not wearing masks
+
+Public Dataset: Kaggle Face Mask Detection
